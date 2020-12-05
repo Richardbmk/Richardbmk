@@ -37,4 +37,4 @@ Startups, data scientist, DevOps, Front-end or FullStack Developers and Companie
 
 ### 📫 _Let's get in touch!_
 [![Hotmail](https://img.shields.io/badge/-OUTLOOK-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyaspopal/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
