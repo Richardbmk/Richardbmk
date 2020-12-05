@@ -3,25 +3,26 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
 
 
-_Welcome to my GitHub! I'm Elyas (with the stress on the Y), a developer from the Netherlands and living in Spain. Being a person of many interests, I enjoy working within all spheres of activity. Through my skills, gained from coding bootcamps such as in Ironhack Lisbon, self-studying, the dev community and professional experience, I am building a fluent sleight-of-hand in both frontend and backend technologies and languages. Because bringing ideas to life as efficient and accurate as possible is really the ultimate goal in life._
+_Welcome to my GitHub! I'm Ricardo (Richard for the friends), My academic background is in Energy Engineer but I consider myself a person who like to think ahead with the idea of trying to face the needs of tomorrow. Collage was little bit out to date to me that’s why I choose to acquire by myself some knowledge related with Industry 4.0 like cloud computing.  
+I think of programming as a set of tools... Tools which I can bring to life my own ideas._
 
-**And what could be more effective in achieving that goal than coding?** 🤖
+**And what could be more fun that bringing ideas to life? 🌱**
 
 ---
 
-### 🌱 I’m currently working on
+### 😎 I’m currently working on
 
-My portfolio and other freelance projects, also picking up new practises and tools
+  Building an Ecommerce from scratch for my portafolio
 
 ### ⏳ Current focus is on
 
-- React.js & node.js
+- React.js
 - Cloud Architectures including Serverless Architectures with AWS
 - Data analytics and Data visualization
 
 ### 💼 I would like to colaborate on/with
 
-Creative ideas, startups, webshops, design agencies or basically anything in our mutual benefit.
+Startups, data scientist, DevOps, Front-end or FullStack Developers, Companies related with industry 4.0 with a good team player culture.
 
 ### Languages & Tools:
 <code><img height="20" src="/assets/aws.png"></code>
