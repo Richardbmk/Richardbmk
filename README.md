@@ -22,7 +22,7 @@ I think of programming as a set of tools... Tools which I can bring to life my o
 
 ### 💼 I would like to colaborate on/with
 
-Startups, data scientist, DevOps, Front-end or FullStack Developers, Companies related with industry 4.0 with a good team player culture.
+Startups, data scientist, DevOps, Front-end or FullStack Developers and Companies related with industry 4.0 with a good team player culture.
 
 ### Languages & Tools:
 <code><img height="20" src="/assets/aws.png"></code>
