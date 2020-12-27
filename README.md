@@ -1,7 +1,7 @@
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
 [![Hotmail](https://img.shields.io/badge/-HOTMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-E4181E)](https://ricardo.iotcloudsolutions.com/)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-E4181E?style=for-the-badge&logo=superuser&logoColor=white)](https://ricardo.iotcloudsolutions.com/)
 <a href="https://ricardoboriba.tk/"><img height="20" src="/assets/WordPress-emblema.jpg"></a>
 <a href="https://www.instagram.com/cloudsolutions4.0/"><img height="20" src="/assets/instagram.jpg"></a>
 
