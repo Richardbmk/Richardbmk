@@ -1,6 +1,10 @@
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
 [![Hotmail](https://img.shields.io/badge/-HOTMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
+<a href="https://ricardoboriba.tk/"><img height="20" src="/assets/WordPress-emblema.jpg"></a>
+<a href="https://www.instagram.com/cloudsolutions4.0/"><img height="20" src="/assets/instagram.jpg"></a>
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://ricardo.iotcloudsolutions.com/)
+
 
 
 _Welcome to my GitHub! I'm Ricardo (Richard for the friends), My academic background is in Energy Engineer but I consider myself a person who like to think ahead with the idea of trying to face the needs of tomorrow. Collage was little bit out to date to me that’s why I choose to acquire by myself some knowledge related with Industry 4.0 like cloud computing.  
