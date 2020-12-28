@@ -18,7 +18,7 @@ I think of programming as a set of tools... Tools which I can bring to life my o
 
 ### 😎 I’m currently working on
 
-  Building an Ecommerce from scratch for my portafolio
+  Building an [Ecommerce](https://github.com/Richardbmk/online_store) from scratch for my portafolio
 
 ### ⏳ Current focus is on
 
