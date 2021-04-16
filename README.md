@@ -1,5 +1,5 @@
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
-[![Hotmail](https://img.shields.io/badge/-HOTMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
+[![Gmail](https://img.shields.io/badge/-HOTMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-E4181E?style=for-the-badge&logo=superuser&logoColor=white)](https://ricardo.iotcloudsolutions.com/)
 <a href="https://www.instagram.com/thecloudcomputingway/"><img height="25" src="/assets/instagram.jpg"></a>
@@ -18,13 +18,13 @@ I think of programming as a set of tools... Tools which I can bring to life my o
 
 ### 😎 I’m currently working on
 
-  Building an [Ecommerce](https://github.com/Richardbmk/online_store) from scratch for my portafolio
+  Building an [WebApp with Data Analytics](https://github.com/Richardbmk/traveldeals_awsworkshop) with **AWS**, **Reactjs** and **Amplif**y for my portafolio
 
 ### ⏳ Current focus is on
 
+- Linux Administration (Distro: Ubuntu)
 - React.js
 - Cloud Architectures including Serverless Architectures with AWS
-- Data analytics and Data visualization
 
 ### 💼 I would like to colaborate on/with
 
@@ -42,5 +42,5 @@ Startups, data scientist, DevOps, Front-end or FullStack Developers and Companie
 
 
 ### 📫 _Let's get in touch!_
-[![Hotmail](https://img.shields.io/badge/-OUTLOOK-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
+[![Gmail](https://img.shields.io/badge/-OUTLOOK-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
