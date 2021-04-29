@@ -18,7 +18,7 @@ I think of programming as a set of tools... Tools which I can bring to life my o
 
 ### 😎 I’m currently working on
 
-  Building an [Full Stack Serverless App](https://github.com/Richardbmk/traveldeals_awsworkshop) with **AWS**, **Reactjs** and **Serverless Framework**y for my portafolio
+  Building an [Full Stack Serverless App](https://github.com/Richardbmk/sls-fullstackApp) with **AWS**, **Reactjs** and **Serverless Framework**y for my portafolio
 
 ### ⏳ Current focus is on
 
