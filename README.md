@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
 [![Portfolio](https://img.shields.io/badge/-PORTFOLIO-E4181E?style=for-the-badge&logo=superuser&logoColor=white)](https://ricardo.iotcloudsolutions.com/)
 <a href="https://www.instagram.com/thecloudcomputingway/"><img height="25" src="/assets/instagram.jpg"></a>
-<a href="https://ricardoboriba.tk/"><img height="25" src="/assets/wordpress.png"></a>
+<a href="https://blog.iotcloudsolutions.com/"><img height="25" src="/assets/wordpress.png"></a>
 
 
 
