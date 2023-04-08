@@ -8,7 +8,7 @@
 
 
 
-_Welcome to my GitHub! I'm Ricardo (Richard for the friends), My academic background is in Energy Engineer but I consider myself a person who like to think ahead with the idea of trying to face the needs of tomorrow. College was little bit out to date to me that’s why I choose to acquire by myself some knowledge related with Industry 4.0 like cloud computing.  
+_Welcome to my GitHub! I'm Ricardo (call me Richard), My academic background is in Energy Engineer but I consider myself a person who like to think ahead with the idea of trying to face the needs of tomorrow. College was little bit out to date to me that’s why I choose to acquire by myself some knowledge related with Industry 4.0 like cloud computing.  
 I think of programming as a set of tools... Tools which I can bring to life my own ideas._
 
 **And what could be more fun that bringing ideas to life? 🌱**
@@ -17,7 +17,8 @@ I think of programming as a set of tools... Tools which I can bring to life my o
 
 ### 😎 I’m currently working on
 
-  New projects to add to my portfolio
+ - New projects to add to my portfolio
+ - Thinking about what to write on Medium 😅
 
 ### ⏳ Current focus is on
 
