@@ -1,9 +1,8 @@
 ![](/assets/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
 [![Gmail](https://img.shields.io/badge/-HOTMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rdobmk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoboriba/)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-E4181E?style=for-the-badge&logo=superuser&logoColor=white)](https://ricardo.iotcloudsolutions.com/)
-<a href="https://www.instagram.com/thecloudcomputingway/"><img height="25" src="/assets/instagram.jpg"></a>
-<a href="https://blog.iotcloudsolutions.com/"><img height="25" src="/assets/wordpress.png"></a>
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-E4181E?style=for-the-badge&logo=superuser&logoColor=white)](https://ricardoboriba.com/)
+<a href="[https://ricardobmk.medium.com/]"><img height="25" src="/assets/Medium_(website)_logo.svg"></a>
 
 
 
@@ -18,13 +17,13 @@ I think of programming as a set of tools... Tools which I can bring to life my o
 
 ### 😎 I’m currently working on
 
-  Building an [Serverless App](https://github.com/Richardbmk/comfysloth) with **AWS**, **Reactjs** and **Serverless Framework**y for my portafolio
+  New projects to add to my portfolio
 
 ### ⏳ Current focus is on
 
-- Linux Administration (Distro: Ubuntu)
-- React.js
-- Cloud Architectures including Serverless Architectures with AWS
+- AWS Cloud Diagram Architectures
+- Kuberenestes in AWS EKS 
+- Infrastructure as Code with Terraform and Serverless Framework 
 
 ### 💼 I would like to colaborate on/with
 
